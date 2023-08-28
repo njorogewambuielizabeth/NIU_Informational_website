@@ -1,0 +1,28 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #E1EBE4;
+    color: #000000;
+    font-size: 24px;
+  }
+  
+  .logo img {
+    width: 100px; 
+    height: auto;
+  }
+ 
+ 
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 50px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #000000;
+  }
+  
